@@ -1,0 +1,35 @@
+
+### **30 Unique JavaScript Tips (Short Video Ideas)**
+
+1. **Swap Two Variables Without Temp** – `[a, b] = [b, a]`
+2. **Optional Chaining** – `obj?.prop?.subProp` to avoid errors
+3. **Nullish Coalescing** – `let x = value ?? 'default'`
+4. **Short-Circuiting with && and ||** – `user && user.name`
+5. **Template Literals with Expressions** – `Hello ${name.toUpperCase()}`
+6. **Immediately Invoked Function Expressions (IIFE)** – `(function(){})();`
+7. **Dynamic Property Names in Objects** – `{ [key]: value }`
+8. **Convert String to Number Quickly** – `+"123"` or `Number("123")`
+9. **Flatten Array Using `flat()`** – `[1, [2, 3]].flat()`
+10. **Check Array Inclusion With `includes()`** – `[1,2,3].includes(2)`
+11. **Create Array With `Array.from()`** – `Array.from({length:5}, (_,i)=>i+1)`
+12. **Find Last Element in Array** – `arr.at(-1)`
+13. **Shorten `if` Statements Using Ternary** – `const status = age > 18 ? 'Adult':'Kid';`
+14. **Clone Objects Easily** – `{ ...obj }` or `Object.assign({}, obj)`
+15. **Debounce Function** – Limit function calls during events like scroll or input
+16. **Throttle Function** – Run function at max intervals for performance
+17. **Default Function Parameters** – `function greet(name='Guest'){}`
+18. **Destructuring Arrays/Objects** – `const {name, age} = user`
+19. **Swap Array Elements** – `[arr[i], arr[j]] = [arr[j], arr[i]]`
+20. **Use `??` vs `||` Correctly** – Default only if null or undefined, not falsy
+21. **Short Object Method Syntax** – `const obj = { greet() { console.log("Hi") } }`
+22. **String Padding** – `"5".padStart(2,'0')` → `"05"`
+23. **String Repeat** – `"Hi!".repeat(3)` → `"Hi!Hi!Hi!"`
+24. **Convert NodeList to Array** – `Array.from(document.querySelectorAll('p'))`
+25. **Optional Catch Binding** – `try{}catch{}` when error not needed
+26. **Check Type Without `typeof` Trap** – `Array.isArray(arr)`
+27. **Dynamic Imports (Lazy Loading)** – `import('./module.js').then(...)`
+28. **Generate Random HEX Color** – `'#'+Math.floor(Math.random()*16777215).toString(16)`
+29. **Use `??=` Operator** – `obj.value ??= 10` (set default only if null/undefined)
+30. **Loop Over Objects with `for...in` or `Object.entries()`**
+
+------------------------------------------------------------------
