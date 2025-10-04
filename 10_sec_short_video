@@ -1,0 +1,138 @@
+Perfect! I can create a **30-day plan of daily JavaScript & Python tips** for **short videos (15–30 seconds)**, including:
+
+* **Hook (intro)**
+* **Code snippet (before → after / demo)**
+* **Humanized voiceover lines**
+* **Outro (call to action)**
+
+I’ll give you a sample for **Days 1–5** so you can see the format and tone. Each tip starts with **“JavaScript tip of the day”** or **“Python tip of the day”** in a friendly, engaging way.
+
+---
+
+### **Day 1 – JavaScript**
+
+**Hook:**
+“JavaScript tip of the day! 🚀 Did you know `===` and `==` are totally different?”
+
+**Code Snippet (Before → After):**
+
+```js
+// Before
+console.log(5 == '5'); // true
+console.log(5 === '5'); // false
+
+// After
+console.log(5 == '5'); // loosely equal, true
+console.log(5 === '5'); // strictly equal, false
+```
+
+**Voiceover Lines:**
+“See here, `==` checks only value, but `===` checks value and type. Always prefer `===` for precise results.”
+
+**Outro (CTA):**
+“Try it in your console today! Hit like if this helped! 💻”
+
+---
+
+### **Day 2 – Python**
+
+**Hook:**
+“Python tip of the day! 🐍 Use list comprehensions to make your code cleaner!”
+
+**Code Snippet (Before → After):**
+
+```python
+# Before
+squares = []
+for i in range(5):
+    squares.append(i*i)
+
+# After
+squares = [i*i for i in range(5)]
+```
+
+**Voiceover Lines:**
+“Instead of writing loops, list comprehensions make your code short and readable.”
+
+**Outro (CTA):**
+“Try it yourself and save lines of code! Don’t forget to share this tip!”
+
+---
+
+### **Day 3 – JavaScript**
+
+**Hook:**
+“JavaScript tip of the day! ✨ Want to swap two variables without a temp variable?”
+
+**Code Snippet:**
+
+```js
+// Before
+let a = 5, b = 10;
+let temp = a;
+a = b;
+b = temp;
+
+// After
+let a = 5, b = 10;
+[a, b] = [b, a];
+```
+
+**Voiceover Lines:**
+“Just use array destructuring—no temp variable needed! Clean and modern.”
+
+**Outro (CTA):**
+“Try this trick in your projects! Follow for more tips!”
+
+---
+
+### **Day 4 – Python**
+
+**Hook:**
+“Python tip of the day! 💡 Want to swap variables in one line?”
+
+**Code Snippet:**
+
+```python
+# Before
+a = 5
+b = 10
+temp = a
+a = b
+b = temp
+
+# After
+a, b = b, a
+```
+
+**Voiceover Lines:**
+“Python makes swapping super easy with tuple unpacking. Short, simple, readable.”
+
+**Outro (CTA):**
+“Use this in your next project and impress your friends! 🐍”
+
+---
+
+### **Day 5 – JavaScript**
+
+**Hook:**
+“JavaScript tip of the day! 🔍 Quickly check if a variable is an array.”
+
+**Code Snippet:**
+
+```js
+// Before
+let arr = [1,2,3];
+console.log(arr instanceof Array); // true
+
+// After
+console.log(Array.isArray(arr)); // true
+```
+
+**Voiceover Lines:**
+“Instead of `instanceof`, use `Array.isArray()`—modern and more reliable.”
+
+**Outro (CTA):**
+“Check your variables in a snap! Follow for daily tips!”
+
+---------------------------------------------------------------------------------------------
