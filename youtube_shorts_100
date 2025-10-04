@@ -1,0 +1,50 @@
+## 📅 30 Days Shorts Plan
+
+### 🔹 JavaScript Tips (15 Days)
+
+**Day 1:** `===` vs `==` (strict vs loose equality)
+**Day 2:** Default parameter values in functions
+**Day 3:** `Array.map()` vs `Array.forEach()`
+**Day 4:** Template literals (`${}`) instead of string concatenation
+**Day 5:** Nullish coalescing (`??`) vs OR (`||`)
+**Day 6:** Destructuring objects and arrays
+**Day 7:** Spread operator (`...`) for copying arrays/objects
+**Day 8:** Optional chaining (`?.`) to avoid errors
+**Day 9:** Arrow functions vs normal functions
+**Day 10:** `Set` and `Map` usage in JS
+**Day 11:** `localStorage` vs `sessionStorage`
+**Day 12:** Debouncing and throttling basics
+**Day 13:** Difference between `var`, `let`, `const`
+**Day 14:** Promise vs async/await short demo
+**Day 15:** One-liner: Shuffle an array
+
+---
+
+### 🔹 Python Tips (15 Days)
+
+**Day 16:** f-strings vs `.format()`
+**Day 17:** List comprehension shortcut
+**Day 18:** `zip()` function usage
+**Day 19:** Dictionary comprehension
+**Day 20:** Difference: `is` vs `==`
+**Day 21:** Enumerate in loops
+**Day 22:** Lambda functions
+**Day 23:** Any vs All
+**Day 24:** Try-except shorthand
+**Day 25:** Joining lists into strings with `"".join()`
+**Day 26:** Slicing tricks (`[::-1]` for reverse)
+**Day 27:** Using `with open()` for files
+**Day 28:** `*args` and `**kwargs` basics
+**Day 29:** `collections.Counter` quick demo
+**Day 30:** One-liner: Swap two variables without temp
+
+----------------------------------------------------------------------------------------------------------
+**Day 2:** Default parameter values in functions
+1. Hook (intro)
+2. Code snippet (before → after / demo)
+3. Voiceover lines
+4. Outro (call to action)
+
+
+
+
