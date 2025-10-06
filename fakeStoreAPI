@@ -1,0 +1,144 @@
+📌 Revised & Expanded Video Series Titles
+
+(Video 3 onwards, split into ~50–70 total videos, 5–8 min each)
+
+Section 1 — Core Setup & Config (Videos 3–9)
+
+3.1 Intro to Environment Variables — Why .env matters in real projects
+3.2 Installing dotenv & creating your first config.js file
+3.3 Best practices for managing secrets & API keys securely
+
+4.1 REST API basics — what’s a route, method, and status code
+4.2 API Versioning — why we prefix /api/v1
+4.3 Quick Swagger setup for API documentation
+
+5.1 Overview of FakeStoreAPI endpoints
+5.2 Calling /products endpoint in isolation
+5.3 Exploring /carts endpoint and data structure
+5.4 Exploring /users endpoint and data structure
+
+6.1 What is a DTO — and why enterprise projects use them
+6.2 Creating a simple product DTO
+6.3 Mapping FakeStoreAPI data into clean DTO format
+
+Section 2 — API Structure & Layers (Videos 10–18)
+
+7.1 Controller layer — what goes here and why
+7.2 Service layer — separating business logic from routes
+7.3 Refactoring a simple GET route into controller + service
+
+8.1 JWT basics — how tokens work
+8.2 Installing JWT & creating mock login route
+8.3 Generating and returning a JWT token
+8.4 Protecting routes with JWT verification middleware
+
+9.1 RBAC overview — role-based access explained simply
+9.2 Creating a role-checking middleware
+9.3 Applying RBAC to an admin-only route
+
+Section 3 — Advanced API Features (Videos 19–34)
+
+10.1 Intro to Pagination, Filtering & Sorting
+10.2 Implementing simple pagination logic
+10.3 Adding filtering by category
+10.4 Adding sorting by price or rating
+
+11.1 Intro to file uploads with Multer
+11.2 Creating upload endpoint & testing in Postman
+11.3 Saving image metadata without a real DB
+
+12.1 Intro to Redis caching & why it matters
+12.2 Installing Redis locally & connecting in Node
+12.3 Caching /products data
+12.4 Implementing cache invalidation
+
+13.1 What is input validation & why it’s important
+13.2 Installing Joi & writing your first schema
+13.3 Applying validation middleware to a POST route
+
+14.1 Intro to centralised error handling
+14.2 Creating a custom error class
+14.3 Building a global error middleware
+
+15.1 Why logging is important for enterprise apps
+15.2 Installing and configuring Morgan
+15.3 Setting up Winston for structured logs
+
+Section 4 — Testing, Performance & Deployment (Videos 35–52)
+
+16.1 Intro to testing APIs — unit vs integration
+16.2 Installing Jest & writing your first test
+16.3 Testing a GET /products endpoint
+
+17.1 Why performance tuning matters
+17.2 Using Node clustering for CPU utilisation
+17.3 Identifying async bottlenecks
+
+18.1 Intro to Docker & why we use it
+18.2 Writing a Dockerfile for our Node app
+18.3 Using docker-compose for local setup
+
+19.1 Intro to CI/CD & GitHub Actions
+19.2 Creating a workflow to run tests
+19.3 Deploying automatically after tests pass
+
+20.1 Overview of deploy options — Heroku vs DO vs AWS
+20.2 Quick deploy to Heroku
+20.3 Quick deploy to DigitalOcean
+
+Section 5 — Security, Monitoring & Refactoring (Videos 53–70)
+
+21.1 OWASP Top 5 for Node.js developers
+21.2 Installing Helmet & setting security headers
+21.3 Adding rate limiting middleware
+
+22.1 Intro to health checks & monitoring
+22.2 Creating a /health endpoint
+22.3 Adding basic metrics logging
+
+23.1 What is Clean Architecture
+23.2 Refactoring service layer for modularity
+
+24.1 Sending emails with a mock SMTP server
+24.2 Creating a webhook endpoint
+24.3 Mocking payment gateway integration
+
+25.1 Final release checklist — README & docs
+25.2 Exporting Postman collection
+25.3 Version tagging & changelog basics
+
+Section 6 — Interview Q&A (Videos 71–80)
+
+26.1 Node Event Loop explained — simple visual demo
+27.1 Callback vs Promise vs async/await — when to use what
+28.1 Concurrency in Node — clustering & workers
+29.1 Finding and fixing memory leaks
+30.1 Designing a scalable REST API — key talking points
+31.1 JWT security — attacks & prevention
+32.1 Custom middleware — auth & logging example
+33.1 Error handling strategies in Node
+34.1 Testing strategy for backend
+35.1 Performance tuning checklist for interviews
+
+If you'd like, I can now start with Video 3.1 in the same before–code–after–why format as we did for Video 2, so your short episodes are ready for direct recording.
+
+------------------------------------------------------------------------------------------
+
+Yes need 3.1        
+3.1 Intro to Environment Variables — Why .env matters in real projects  
+  
+More detailed content needs a voiceover and code comments.Before, code, after, and why use add. All the code comments        
+        
+Intro        
+Starting Hooks        
+Video content        
+Ending Hooks      
+      
+English contents 3.1 video... Humanize professional content
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+
